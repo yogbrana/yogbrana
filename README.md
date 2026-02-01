@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogbrana&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogbrana&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=yogbrana&layout=compact&count_private=true&theme=radical
+)
 
 <!--
 **yogbrana/yogbrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
