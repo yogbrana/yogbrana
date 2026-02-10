@@ -2,7 +2,8 @@
 
 ### 👨‍💻 Languages I work with
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yogbrana&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yogbrana&layout=compact&theme=dracula)
+
 
 ---
 
