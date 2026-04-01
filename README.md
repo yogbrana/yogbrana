@@ -10,4 +10,4 @@ Focused on backend development - building the systems that make applications rel
 - 🌐 MERN stack (working knowledge)
 - 🎮 Unity (C#) — hobby & exploration
 
-I enjoy working on the logic behind the scenes — where real impact happens.
+I enjoy working on the logic behind the scenes - where real impact happens.
